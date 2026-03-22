@@ -6,4 +6,8 @@ X11, esim xfce4 tai i3-wm
 
 obs flatpakista
 
+
+Laita tiedostot $HOME/.twitchrefresher ja tee alias
+
 Säädä aikaa aja.sh while loopin sleepillä
+
