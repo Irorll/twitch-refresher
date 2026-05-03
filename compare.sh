@@ -1,5 +1,5 @@
 #!/bin/sh
-#IRORLL220325
+#irorll030526
 
 read arvo
 
