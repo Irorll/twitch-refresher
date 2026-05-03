@@ -2,12 +2,10 @@ librewolf
 alternate player
 grabc (vaatii X11)
 xdotool (vaatii X11)
-X11, esim xfce4 tai i3-wm
+X11 esim cinnamon
 
-obs flatpakista
+obs flatpackista
 
+Laita filut $HOME/.twitchrefresher ja tee alias
 
-Laita tiedostot $HOME/.twitchrefresher ja tee alias
-
-Säädä aikaa aja.sh while loopin sleepillä
-
+Säädä aika aja.sh while loopin sleepillä
